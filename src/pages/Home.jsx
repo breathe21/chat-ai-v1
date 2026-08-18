@@ -2,9 +2,9 @@ import React from 'react'
 
 const Home = () => {
   return (
-    <div>
-      Hello
-    </div>
+    <div className='text-white'>
+      Xin chào tui có thể giúp gì cho bạn
+    </div>  
   )
 }
 
