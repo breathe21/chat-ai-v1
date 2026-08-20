@@ -8,7 +8,7 @@ const SideBar = () => {
   return (
     <div className='text-white bg-[#1e1f20] w-[280px] h-screen p-8'>
       <div className='mt-20'>
-        <button className='px-4 py-2 flex items-center space-x-2 cursor-pointer bg-gray-600 mb-10 rounded-lg'>
+        <button className='w-full px-4 py-2 flex items-center space-x-2 cursor-pointer bg-gray-600 mb-10 rounded-lg'>
           <AddIcon className='w-4 h-4 '/>
           <span >Cuộc trò chuyện mới</span>
         </button>

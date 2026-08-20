@@ -1,6 +1,5 @@
 const Home = () => {
   return (
-    <div className="text-white">
       <div className="max-w-[90%] w-full mx-auto mt-64">
         <div className="flex flex-col space-y-5 text-center">
           <div className="space-y-4">
@@ -22,7 +21,6 @@ const Home = () => {
           </div>
         </div>
       </div>
-    </div>
   );
 };
 
