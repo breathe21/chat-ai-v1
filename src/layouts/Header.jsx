@@ -1,6 +1,6 @@
 import React from 'react'
 import DensityMediumIcon from '@mui/icons-material/DensityMedium'
-const Header = ({ setOpenSideBar, openSideBar}) => {
+const Header = ({ setOpenSideBar, openSideBar }) => {
   return (
     <div className='text-white py-7 px-5'>
       <h2 className='hidden lg:block font-bold text-2xl text-logo'>Trương Hoàng Tuấn Anh</h2>
