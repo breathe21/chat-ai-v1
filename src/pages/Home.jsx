@@ -4,8 +4,8 @@ const Home = () => {
         <div className="flex flex-col space-y-5 text-center">
           <div className="space-y-4">
             <p 
-              className="bg-gradient-to-r from-blue-600 via-green-500 to-indigo-400 
-              text-[40px] font-bold text-3xl inline-block text-transparent bg-clip-text">
+              className="bg-gradient-to-r from-blue-600 to-indigo-400 
+              text-[40px] text-3xl inline-block text-transparent bg-clip-text">
               Welcome to AI Studio
             </p>
           </div>
