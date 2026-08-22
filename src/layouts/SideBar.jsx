@@ -16,7 +16,7 @@ const SideBar = ({ openSideBar, setOpenSideBar }) => {
       <aside
         className={`
           fixed lg:static z-50
-          w-[280px] h-dvh p-8
+          w-72 h-dvh p-8
           text-white bg-[#1e1f20]
           transition-transform duration-300
           ${openSideBar ? 'translate-x-0' : '-translate-x-full lg:translate-x-0'}
